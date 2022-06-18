@@ -1,1 +1,2 @@
-# mergebot01
+# dependabot-playground
+Repository for testing Mergebot configurations
